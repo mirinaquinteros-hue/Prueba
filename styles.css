@@ -56,3 +56,11 @@ a:hover img {
     box-shadow: 0 8px 25px rgba(141, 164, 190, 0.4); 
     cursor: pointer;
 }
+.audio-fondo {
+    display: block;
+    margin: 0 auto 40px auto; 
+    height: 35px; 
+    width: 250px; 
+    opacity: 0.4; 
+    transition: opacity 0.3s ease; 
+    border-radius: 20px; 
